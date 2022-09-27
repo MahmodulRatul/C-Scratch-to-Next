@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617424700 source:c:\users\mahmodul kabir\onedrive\documents\ratul\notes aiub\codeblocks projects\c\string produce\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

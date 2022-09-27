@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620420952 source:c:\users\mahmodul kabir\onedrive\documents\ratul\notes aiub\codeblocks projects\c\keyword detection\main.c
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+

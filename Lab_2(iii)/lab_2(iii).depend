@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613501340 source:c:\users\mahmodul kabir\onedrive\documents\ratul\notes aiub\codeblocks projects\c\lab_2(iii)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

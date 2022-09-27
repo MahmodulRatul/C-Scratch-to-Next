@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613544750 source:c:\users\mahmodul kabir\onedrive\documents\ratul\notes aiub\codeblocks projects\c\parenthesize\main.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620512188 source:c:\users\mahmodul kabir\onedrive\documents\ratul\notes aiub\codeblocks projects\c\check number\main.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
